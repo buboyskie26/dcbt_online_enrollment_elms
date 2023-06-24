@@ -31,6 +31,11 @@ body {
   flex-grow: 0;
 }
 
+.shadow {
+  display: flex;
+  align-items: center;
+}
+
 .sidebar-profile {
   /* Auto layout */
 
