@@ -33,6 +33,7 @@ body {
 
 .shadow {
   display: flex;
+  flex-direction: column;
 }
 
 .sidebar-profile {
